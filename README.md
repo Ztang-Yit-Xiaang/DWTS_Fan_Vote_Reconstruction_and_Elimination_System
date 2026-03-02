@@ -1,5 +1,5 @@
 # DWTS Fan Vote Reconstruction and Elimination System  
-**MCM 2026 · Problem C**
+**Based on MCM 2026 · Problem C**
 
 This repository presents a complete, end-to-end modeling pipeline for **Problem C (Dancing With the Stars)** of the 2026 MCM/ICM.  
 The central challenge is that **fan votes are unobserved**, while judge scores and eliminations are observed.  
