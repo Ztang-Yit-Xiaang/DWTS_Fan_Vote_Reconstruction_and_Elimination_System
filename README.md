@@ -7,6 +7,19 @@ We reconstruct latent fan preferences, validate existing voting rules, explain f
 
 ---
 
+<!-- BEGIN portfolio-project-animations -->
+## Animated project guide
+
+These self-contained SVG animations explain the project workflow. They are illustrative guides, not recorded experiments or new performance results. Static content remains available when reduced motion is requested.
+
+### Observed scores, latent votes
+
+![Observed scores, latent votes — illustrative animation](docs/portfolio-animations/dwts-vote-reconstruction.svg)
+
+Synthetic contestants and symbolic shares only; inferred fan votes are not observed ground truth.
+
+<!-- END portfolio-project-animations -->
+
 ## 1. Problem Framing
 
 In each week \( $t$ \), contestants receive:
