@@ -8,15 +8,17 @@ We reconstruct latent fan preferences, validate existing voting rules, explain f
 ---
 
 <!-- BEGIN portfolio-project-animations -->
-## Animated project guide
+## Recorded project interactions
 
-These self-contained SVG animations explain the project workflow. They are illustrative guides, not recorded experiments or new performance results. Static content remains available when reduced motion is requested.
+These previews record interaction with original project figures, saved notebook outputs, source tests, or the actual project interface. They do not represent new experiments, model inference, or benchmark runs. Pointer-driven inspection, saved-result selection, and browser controls are captured below.
 
-### Observed scores, latent votes
+### Inspect the team report figures
 
-![Observed scores, latent votes — illustrative animation](docs/portfolio-animations/dwts-vote-reconstruction.svg)
+![Inspect the team report figures - recorded project interaction](docs/portfolio-previews/dwts-vote-reconstruction.gif)
 
-Synthetic contestants and symbolic shares only; inferred fan votes are not observed ground truth.
+Original figures from the team report. Fan shares are modeled estimates rather than observed vote ground truth; no models were rerun.
+
+[Original project material](https://github.com/Ztang-Yit-Xiaang/DWTS_Fan_Vote_Reconstruction_and_Elimination_System)
 
 <!-- END portfolio-project-animations -->
 
